@@ -1,0 +1,4 @@
+name = "GF256"
+uuid = "e1b10289-0a3b-474e-97ea-acd61f59e6b7"
+authors = ["uchkw <huchkw@gmail.com>"]
+version = "0.1.0"
